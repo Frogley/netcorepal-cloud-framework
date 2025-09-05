@@ -65,6 +65,8 @@ nav:
     - 仓储: data/repository.md
     - UnitOfWork: data/unit-of-work.md
   - 事务处理: transaction/transactions.md
+  - 最终一致性架构: eventual-consistency-architecture.md
+  - 架构图表: architecture-diagrams.md
   - 服务发现: 
     - 服务发现客户端: service-discovery/service-discovery-client.md
     - Kubernetes: service-discovery/k8s-service-discovery-provider.md
